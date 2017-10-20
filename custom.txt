@@ -11,6 +11,7 @@ osd-on	Oh es dee on
 adj-d	Adjust d
 adj-i	Adjust i
 adj-p	Adjust p
+adjprl	Adjust pitch and roll
 adjpch	Adjust pitch
 adjrll	Adjust roll
 adjyaw	Adjust yaw
