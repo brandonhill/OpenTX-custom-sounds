@@ -18,9 +18,11 @@ The `system.txt` configuration file is for sounds to be placed in the system fol
 
 Download and install `sox`.
 
-Navigate to this directory. Provide `-p` argument to play the sounds whilst creating them:
+Navigate to this directory. Provide `-p` argument to play the sounds whilst creating them, and `-v` argument to use a specific voice (Karen is default):
 
 ```
 $ ./generate.sh
 $ ./generate.sh -p
+$ ./generate.sh -v Daniel
+$ ./generate.sh -p -v Kate
 ```
