@@ -1,0 +1,6 @@
+hello	Open TX 2 point 2 point oh
+inactiv	Please turn me off
+lowbatt	Battery low
+rssi_org	Signal low
+rssi_red	Signal critical!
+thralert	Throttle warning

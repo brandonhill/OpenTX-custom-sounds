@@ -1,0 +1,18 @@
+arm-of	Disarmed
+arm-on	Armed
+buzzer	Buzzer
+fm-air	Air mode
+fm-ang	Angle mode
+fm-hor	Horizon mode
+lts-of	Lights off
+lts-on	Lights on
+osd-of	Oh es dee off
+osd-on	Oh es dee on
+adj-d	Adjust d
+adj-i	Adjust i
+adj-p	Adjust p
+adjpch	Adjust pitch
+adjrll	Adjust roll
+adjyaw	Adjust yaw
+valdec	Decreasing
+valinc	Increasing
