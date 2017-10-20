@@ -1,6 +1,6 @@
 # OpenTX custom sounds
 
-For macOS/OS X. Uses `say` command for speech synthesis of your own custom sounds for use by OpenTX 2.2.x.
+For macOS/OS X. Uses `say` command for speech synthesis and `sox` for conversion of your own custom sounds for use by OpenTX 2.2.x.
 
 Currently English only. Currently expects to be run from a sibling directory to your `SD structure` directory. Will eventually add ability to provide a destination directory.
 
@@ -10,7 +10,9 @@ The `system.txt` configuration file is for sounds to be placed in the system fol
 
 ## Usage
 
-Provide `-p` argument to play the sounds whilst creating them.
+Download and install `sox`.
+
+Navigate to this directory. Provide `-p` argument to play the sounds whilst creating them:
 
 ```
 $ ./generate.sh
