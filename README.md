@@ -19,7 +19,7 @@ The `system.txt` configuration file is for sounds to be placed in the system fol
 Download [Sox](https://sourceforge.net/projects/sox/files/latest/download?source=files). Unzip. Link using Terminal.app (updating `/path/to/sox-*/` to wherever your copy is):
 
 ```
-ln -s ~/path/to/sox-*/sox /usr/local/bin/sox
+$ ln -s ~/path/to/sox-*/sox /usr/local/bin/sox
 ```
 
 Navigate to this directory. Provide `-p` argument to play the sounds whilst creating them, and `-v` argument to use a specific voice (Karen is default):
