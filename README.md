@@ -39,7 +39,7 @@ $ ./generate.sh
 ### Parameters
 
 * **-l**: Specify language code. Default is `en`.
-* **-o**: Specify output directory. Default is `../SD structure/SOUNDS`.
+* **-o**: Specify output directories separated by a colon `:`. Will try to create them if they don't exist. Default is `../SD structure/SOUNDS`.
 * **-p**: Play the sounds while generating them.
 * **-v**: Specify voice to use. Default is Karen. Run `say -v '?'` to see available voices.
 
@@ -48,7 +48,7 @@ $ ./generate.sh
 ```
 $ ./generate.sh
 $ ./generate.sh -l fr
-$ ./generate.sh -o /Volumes/Taranis\ SD/SOUNDS
+$ ./generate.sh -o '../SD structure/SOUNDS:/Volumes/Taranis SD/SOUNDS'
 $ ./generate.sh -p
 $ ./generate.sh -v Daniel
 $ ./generate.sh -l de -o ~/Desktop/OpenTX\ Sounds -p -v Kate
