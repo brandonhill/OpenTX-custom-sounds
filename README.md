@@ -1,6 +1,6 @@
 # OpenTX custom sounds
 
-For macOS/OS X. Uses `say` command for speech synthesis and `sox` for conversion of your own custom sounds for use by [OpenTX 2.2.x](http://www.open-tx.org/2017/05/30/opentx-2.2.0). See OpenTX [Audio reference](https://opentx.gitbooks.io/manual-for-opentx-2-2/content/advanced/audio.html).
+For macOS/OS X/Linux/Unix (Windows users see [OpenTX Speaker](http://www.open-tx.org/2014/03/15/opentx-speaker)). Uses `say` command for speech synthesis and `sox` for conversion of your own custom sounds for use by [OpenTX 2.2.x](http://www.open-tx.org/2017/05/30/opentx-2.2.0). See OpenTX [Audio reference](https://opentx.gitbooks.io/manual-for-opentx-2-2/content/advanced/audio.html).
 
 Sample: [hello.wav](https://raw.githubusercontent.com/brandonhill/OpenTX-custom-sounds/master/samples/hello.wav) (right click and download linked file).
 
